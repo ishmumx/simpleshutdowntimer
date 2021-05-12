@@ -7,7 +7,7 @@ A very simple windows shutdown timer. You can select multiple timings and even c
 * No fuss, click and forget
 * Perfect for parents, enthusiasts that have large overnight tasks (e.g benchmarking) and need to time their shutdowns, etc
 
-#Screenshots
+# Screenshots
 
 ![image](https://user-images.githubusercontent.com/37858032/118017749-d38a4b00-b30b-11eb-9c1c-4a8077eceb89.png)
 
