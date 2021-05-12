@@ -3,5 +3,6 @@ A very simple windows shutdown timer. You can select multiple timings and even c
 
 # Features
 * You can set time intervals: 10 minutes to 10 Hours!
+* Portable (No installation required)
 * No fuss, click and forget
-* Perfect for people that have large overnight tasks (e.g benchmarking) and need to time their shutdowns
+* Perfect for parents, enthusiasts that have large overnight tasks (e.g benchmarking) and need to time their shutdowns, etc
