@@ -3,8 +3,7 @@ A very simple windows shutdown timer. You can select multiple timings and even c
 
 # Features
 * You can set time intervals: 10 minutes to 10 Hours!
-* Shutdown is **forced.** 
- * If you have pop ups etc that show on shutdown, this overrides all of them and forces a shut down.
+* Shutdown is **forced.** If you have pop ups etc that show on shutdown, this overrides all of them and forces a shut down.
 * Tiny--31.5 KB!
 * Portable (No installation required)
 * No fuss, click and forget
