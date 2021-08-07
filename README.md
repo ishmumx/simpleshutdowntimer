@@ -17,6 +17,8 @@ A very simple windows shutdown timer. You can select multiple timings and even c
 
 ✔️ Perfect for parents, enthusiasts that have large overnight tasks (e.g benchmarking) and need to time their shutdowns, please message me with more interesting use cases 😊
 
+✔️ You can open the source files in Visual Studio 2015 or higher. Modify this program to **YOUR** needs
+
 
 # Screenshots
 
