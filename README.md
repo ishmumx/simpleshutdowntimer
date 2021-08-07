@@ -1,14 +1,22 @@
-#⚡ Simple Shutdown Timer
+# ⚡ Simple Shutdown Timer
 A very simple windows shutdown timer. You can select multiple timings and even cancel the timer in case you choose to keep your machine from shutting down.
 
 # Features
-## 🎆 Simple Shutdown Timer works on Windows 10! **Do press** _yes_ on the .NET Framework Prompt, please! ⚡
+![image](https://user-images.githubusercontent.com/37858032/128592746-d6012cd8-c9de-4aac-9db5-0bdb66f446c8.png)
+
+#### 🎆 Simple Shutdown Timer works on Windows 11! **Do press** _yes_ on the .NET Framework Prompt, please ⚡
 ✔️ You can set time intervals: 10 minutes to 10 Hours!
+
 ✔️ Shutdown is **forced.** If you have pop ups etc that show on shutdown, this overrides all of them and forces a shut down.
-✔️ Tiny--31.5 KB!
+
+✔️ Tiny @ 31.5 KB
+
 ✔️ Portable (No installation required)
-✔️ No fuss, click and forget
-✔️ Perfect for parents, enthusiasts that have large overnight tasks (e.g benchmarking) and need to time their shutdowns, etc
+
+✔️ Click and forget
+
+✔️ Perfect for parents, enthusiasts that have large overnight tasks (e.g benchmarking) and need to time their shutdowns, please message me with more interesting use cases 😊
+
 
 # Screenshots
 
