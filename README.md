@@ -1,5 +1,8 @@
+
 # ⚡ Simple Shutdown Timer
 A very simple windows shutdown timer. You can select multiple timings and even cancel the timer in case you choose to keep your machine from shutting down.
+
+![image](https://user-images.githubusercontent.com/37858032/118017749-d38a4b00-b30b-11eb-9c1c-4a8077eceb89.png)
 
 # Features
 ![image](https://user-images.githubusercontent.com/37858032/128592746-d6012cd8-c9de-4aac-9db5-0bdb66f446c8.png)
@@ -20,9 +23,10 @@ A very simple windows shutdown timer. You can select multiple timings and even c
 ✔️ You can open the source files in Visual Studio 2015 or higher. Modify this program to **YOUR** needs
 
 
+
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/37858032/118017749-d38a4b00-b30b-11eb-9c1c-4a8077eceb89.png)
+
 
 ![image](https://user-images.githubusercontent.com/37858032/118017794-dedd7680-b30b-11eb-8cf2-69f915edd82b.png)
 
