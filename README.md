@@ -7,7 +7,7 @@ A very simple windows shutdown timer. You can select multiple timings and even c
 #### 🎆 Simple Shutdown Timer works on Windows 11! **Do press** _yes_ on the .NET Framework Prompt, please ⚡
 ✔️ You can set time intervals: 10 minutes to 10 Hours!
 
-✔️ Shutdown is **forced.** If you have pop ups etc that show on shutdown, this overrides all of them and forces a shut down.
+✔️ Shutdown is **forced.** If you have pop ups etc that show on shutdown, this overrides all of them and forces a shut down
 
 ✔️ Tiny @ 31.5 KB
 
